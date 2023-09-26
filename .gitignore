@@ -1,0 +1,15 @@
+.idea
+.htaccess
+composer.lock
+composer.phar
+/vendor/
+/logs/
+/includes/env.php
+/public_html/img/avatars/
+/public_html/img/icons/
+/uploadtmp/
+/public_html/html_report/
+/public_html/myreport/
+/public_html/cgi-bin
+/ExternalAssets/
+/tmp/
